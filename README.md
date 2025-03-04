@@ -86,6 +86,7 @@ MLflow will log:
 
 ## 📊 Visualization Examples
 **Comparison of prompt performance using radar plots and bar charts:**
+![Radar Comparison](images/radar_comparison.png)
 ![Prompt Comparison](images/prompt_comparison.png)
 
 ---
