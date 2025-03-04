@@ -38,7 +38,7 @@ Instead of cloning this repo manually, you can import the notebook directly into
 The notebook requires **Databricks MLflow, OpenAI, Pandas, Scikit-learn, Sentence Transformers, and Matplotlib**.
 If any package is missing, install them using:
 ```python
-%pip install databricks-sdk mlflow pandas scikit-learn sentence-transformers openai matplotlib seaborn
+%pip install mlflow pandas scikit-learn sentence-transformers openai matplotlib seaborn
 ```
 
 ### 3️⃣ **Run the Notebook**
